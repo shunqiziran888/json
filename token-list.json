@@ -1,0 +1,25 @@
+{
+  "name": "YCSH",
+  "logoURI": "https://raw.githubusercontent.com/shunqiziran888/json/master/ycsh.jpg",
+  "keywords": [
+      "ycsh",
+      "YCSH",
+      "yield"
+    ],
+    "timestamp": "2021-04-16T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xCAb8F65DE537E2FAB6e4FF058Fd3bA8F277eC5Aa",
+      "name": "YCSH",
+      "symbol": "YCSH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/shunqiziran888/json/master/ycsh.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
